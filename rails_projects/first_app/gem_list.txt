@@ -1,0 +1,11 @@
+bigdecimal
+bundler-unload
+executable-hooks
+gem-wrappers
+io-console
+json
+psych
+rake
+rdoc
+rubygems-bundler
+rvm
