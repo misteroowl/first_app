@@ -25,6 +25,6 @@ gem 'rails', '4.2.5'
 # and rake tasks are available in development mode:
  group :development, :test do
 #   gem 'webrat'
-	gem 'pg'
+	
 	gem 'sqlite3', '1.3.11'
 end
