@@ -32,4 +32,6 @@ FirstApp::Application.configure do
 
   # Print deprecation notices to the stderr
   config.active_support.deprecation = :stderr
+  # Something to do with db:migrate
+  config.eager_load = true
 end
